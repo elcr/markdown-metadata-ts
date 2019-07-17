@@ -1,0 +1,11 @@
+{
+  "name": "markdown-metadata",
+  "version": "0.1.0",
+  "main": "dist/index.js",
+  "repository": "https://github.com/elcr/markdown-metadata",
+  "author": "elcr",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^3.5.3"
+  }
+}
